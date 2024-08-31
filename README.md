@@ -1,5 +1,5 @@
 - Hey 👋, I'm **Maulik**
-- 👀 I’m interested in to learn new technologies
+- 👀 I’m interested to learn new technologies
 - 🌱 I’m currently learning and improving skills in MERN stack
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me **maulikkoli1021@gmail.com**
