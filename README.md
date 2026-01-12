@@ -15,6 +15,3 @@ Contact: **[maulikkoli1021@gmail.com](mailto:maulikkoli1021@gmail.com)**
 
 # GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=maulik-koli&theme=dark&hide_border=false)<br/>
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
